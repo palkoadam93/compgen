@@ -1,0 +1,9 @@
+Negyedik generáció
+
+1972-1990
+
+A 4. generáció kezdetének a világ első mikroprocesszorának megjelenését tekintjük. Ezt a generációt már átlagemberek is használták. A processzor a számítógép és a számítógép alapú berendezések központi modulja. A számítógépek negyedik generációját 1971-től 1991-ig számíthatjuk. Nincsenek alapvető változások a számítógépek szervezésében, csupán a korábbi megoldásokat tökéletesítik. Ezek már nagy integráltságú integrált áramköröket használnak. Erre a generációra jellemző, hogy a szoftvergyártás óriási méretűvé válik. A szoftverek árai elérik, egyes esetekben meg is haladhatják a hardverét.
+
+https://upload.wikimedia.org/wikipedia/commons/5/55/Intel_C4004.jpg
+
+Intel4004

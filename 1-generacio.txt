@@ -1,0 +1,9 @@
+Első generáció
+
+1943-1958
+
+1943-1946 között készült el az ABC (Atanasoff–Berry Computer) után a második teljesen elektronikus számítógép, az ENIAC (Electronic Numerical Integrator and Calculator) a Pennsylvania Egyetemen. Ez még nem Neumann-elvű gép volt, csak a számításhoz szükséges adatokat tárolta, a programot kapcsolótáblán kellett beállítani. Jellemzői: elektroncsővel működött, a programozása kizárólag gépi nyelven történt, sok energiát használt fel, gyakori volt a meghibásodás (átlagosan 15 percenként), a sebessége mindössze 1000 – 5000 művelet/másodperc volt. A gép súlya 30 tonna volt, és 18 ezer rádiócsövet tartalmazott. A rádiócsövek nagy hőt termeltek. A programozáshoz 6000 kapcsolót kellett átállítani.
+
+https://upload.wikimedia.org/wikipedia/commons/4/4e/Eniac.jpg
+
+ENIAC

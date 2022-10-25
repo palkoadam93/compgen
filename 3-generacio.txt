@@ -1,0 +1,9 @@
+Harmadik generáció
+
+1965-1972
+
+A harmadik generációs számítógépek abban tértek el legfőképpen az előzőektől, hogy már integrált áramköröket használnak, amiket 1958-ban találtak fel. Ezek képesek voltak arra, hogy egy időben több feladatot is használjanak, a multiprogramozásnak és a párhuzamos működtetésnek köszönhetően. Megjelent a grafikus monitor, és a programozási nyelv is közérthetőbbé vált (BASIC). Fejlődésnek indult az adatátvitel is.
+
+https://media.gettyimages.com/photos/photograph-of-jack-kilbys-model-of-the-first-working-integrated-ever-picture-id96772290?s=612x612
+
+integráltáramkör

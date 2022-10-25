@@ -1,0 +1,9 @@
+Második generáció
+
+1958-1965
+
+1958 – 1965: A második generációs számítógépek már tranzisztorokat tartalmaztak – ami lecsökkentette a méretüket –, valamint ferritgyűrűs tárakkal látták el őket. Ezeknél a gépeknél jelenik meg a megszakítás-rendszer, amelyekkel a hardveres jelzéseket a számítógépek kezelni tudják. Ekkor jelentek meg az operációs rendszerek, valamint a magas szintű programozási nyelvek pl.: FORTRAN.
+
+http://users.atw.hu/blamk/IBM70901.jpg
+
+IBM70901

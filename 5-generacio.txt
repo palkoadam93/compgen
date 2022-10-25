@@ -1,0 +1,9 @@
+Ötödik generáció
+
+1991-
+
+Egyik jellemzőjük, hogy párhuzamos és asszociatív működésű mikroprocesszorokat alkalmaznak. A problémaorientált nyelveket próbálják tökéletesíteni, erre egy kezdeti kísérlet a Prolog programozási nyelv. A számítógépeket úgy tervezik, hogy minél több áramköri elemet szűkítsenek bele egyre kisebb méretű mikrochipekbe, azonban ennek hamarosan elérjük a fizikai határait, ezért új gyártási módszerekre és működési elvekre van szükség.
+
+https://upload.wikimedia.org/wikipedia/commons/6/60/IBM_Q_system_%28Fraunhofer_2%29.jpg
+
+kvantumszámítógép
